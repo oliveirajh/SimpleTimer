@@ -62,3 +62,7 @@ form button:hover{
     font-size: 3em;
     font-weight: 600;
 }
+
+.paused{
+    color: red;
+}
